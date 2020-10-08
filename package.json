@@ -1,6 +1,6 @@
 {
   "name": "silicon-operator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "operator to improve kubernetes in random ways",
   "keywords": [
     "silicon-operator"
@@ -49,6 +49,7 @@
     "@babel/runtime": "^7.11.2",
     "@dot-i/k8s-operator": "^1.0.13",
     "@kubernetes/client-node": "^0.12.2",
+    "@operators/helm2cattle": "^0.0.1",
     "@operators/velero-schedule-replicator": "^0.0.2",
     "core-js": "^3.6.5",
     "isomorphic-ws": "^4.0.1",
