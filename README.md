@@ -2,6 +2,8 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/codejamninja/silicon-operator.svg?style=social&label=Stars)](https://github.com/codejamninja/silicon-operator)
 
+![](assets/silicon-operator.png)
+
 > operator to improve kubernetes in random ways
 
 Please ★ this repo if you found it useful ★ ★ ★
